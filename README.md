@@ -1,3 +1,3 @@
 # Backend API
 
-This is a backedn api that performs CRUD operations
+This is a backend api that performs CRUD operations
